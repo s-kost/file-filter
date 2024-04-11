@@ -1,0 +1,1 @@
+This is a simple script for filename manipulation. It can either swith or delete reoccuring parts of the filename.
